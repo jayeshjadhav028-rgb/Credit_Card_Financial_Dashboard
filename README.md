@@ -1,29 +1,35 @@
-🚀 Credit Card Analytics Dashboard | Power BI | PostgreSQL | Power Query
+# 💳 Credit Card Analytics Dashboard | Power BI
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 📌 Project Overview
 
-Excited to share one of my latest Data Analytics projects – a Credit Card Analytics Dashboard built using Power BI, PostgreSQL, and Power Query.
+An interactive Credit Card Analytics Dashboard built using Power BI to analyze transactions, customer behavior, revenue, and business performance through dynamic visualizations.
 
-📊 Project Highlights:
+## 🛠️ Tools & Technologies
 
-Designed an interactive Credit Card Transaction Dashboard to analyze revenue, transaction amount, interest earned, and customer spending patterns.
-Built a Customer Analytics Dashboard to gain insights into customer demographics, income, education, occupation, age groups, and spending behavior.
-Cleaned and transformed raw data using Power Query for accurate reporting.
-Connected and managed structured datasets using PostgreSQL.
-Created dynamic KPIs, slicers, and interactive visualizations for better business decision-making.
-🔑 Key Insights
+- Power BI
+- PostgreSQL
+- Power Query
+- DAX
+- Microsoft Excel
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 📈 Key Features
 
-✅ Total Revenue: 55M
-✅ Total Transaction Amount: 45M
-✅ Total Interest Earned: 8M
-✅ Total Transactions: 656K
-✅ Customer Income Analyzed: 576M
+- Revenue & Transaction KPIs
+- Customer Analytics
+- Card Category Analysis
+- Chip Type Analysis
+- Expense & Occupation Analysis
+- Regional & Demographic Insights
+- Interactive Filters & Slicers
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 💡 Key Insights
 
-🛠️ Tools & Technologies
-Power BI
-PostgreSQL
-Power Query
-DAX
-Data Visualization
-Data Cleaning
-Business Intelligence
+- 55M Total Revenue
+- 656K Transactions
+- 45M Transaction Amount
+- 8M Interest Earned
+- Interactive dashboards for business insights
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 👨‍💻 Author
 
-This project helped me strengthen my skills in data visualization, dashboard development, data modeling, SQL, and business analytics while converting raw data into meaningful business insights.
+**Jayesh Jadhav**
